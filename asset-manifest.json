@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/abdelghafourbarane/monsters-rolodex.git/static/css/main.7a6a261d.chunk.css",
+    "main.js": "/abdelghafourbarane/monsters-rolodex.git/static/js/main.92b9b970.chunk.js",
+    "main.js.map": "/abdelghafourbarane/monsters-rolodex.git/static/js/main.92b9b970.chunk.js.map",
+    "runtime-main.js": "/abdelghafourbarane/monsters-rolodex.git/static/js/runtime-main.bcf8046b.js",
+    "runtime-main.js.map": "/abdelghafourbarane/monsters-rolodex.git/static/js/runtime-main.bcf8046b.js.map",
+    "static/js/2.42025b03.chunk.js": "/abdelghafourbarane/monsters-rolodex.git/static/js/2.42025b03.chunk.js",
+    "static/js/2.42025b03.chunk.js.map": "/abdelghafourbarane/monsters-rolodex.git/static/js/2.42025b03.chunk.js.map",
+    "static/js/3.07fdebe6.chunk.js": "/abdelghafourbarane/monsters-rolodex.git/static/js/3.07fdebe6.chunk.js",
+    "static/js/3.07fdebe6.chunk.js.map": "/abdelghafourbarane/monsters-rolodex.git/static/js/3.07fdebe6.chunk.js.map",
+    "index.html": "/abdelghafourbarane/monsters-rolodex.git/index.html",
+    "static/css/main.7a6a261d.chunk.css.map": "/abdelghafourbarane/monsters-rolodex.git/static/css/main.7a6a261d.chunk.css.map",
+    "static/js/2.42025b03.chunk.js.LICENSE.txt": "/abdelghafourbarane/monsters-rolodex.git/static/js/2.42025b03.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bcf8046b.js",
+    "static/js/2.42025b03.chunk.js",
+    "static/css/main.7a6a261d.chunk.css",
+    "static/js/main.92b9b970.chunk.js"
+  ]
+}
